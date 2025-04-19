@@ -22,6 +22,8 @@ git push orgin main
 ```
 
 
+
+
 ![image](https://github.com/user-attachments/assets/c32e4887-e8dd-4a0b-9999-7ef024828aef)
 
 로컬에서 작업하고 PR을 통해 관리자 승인
